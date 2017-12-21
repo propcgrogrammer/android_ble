@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8921fab52178cc81ec991a40bf58e807fb8d0f44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_0bac2d71777b4c2977edb9307efc7ed8097390f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bf46b70e82e48eb4623c196f936252e3d7bf31ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_718488b16a688a866c59945fd94f9f15161ca62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_8076b378d40cb23fae3c699b9f4c1e3754e14ca4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cbf6a485c0ef32f6fd468725dc4114873f10b897\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_9cd3501d8fa618cf9dc9f93d4214396b2561f18d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_a86f595f6c34ddbeab269d587182decf2fc097a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_c1756e384c3b5b9baa9041e9f4f056d15e797c46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_e13b5c9d9d150ac5e91ecdd33d51ce1aaf5626b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.0.2\11752d3f24d1a9deda4533a7ca18d8496417ceeb\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.0.2_dac82c8283989839e9ec6f686a2d1fecba47fb4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_1ba9aa9840d65dc71589ace7e6bc14ec6b1830ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7d1da7addeb5853a5cb780d4728ae1c1c6a827bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_0ea11f2ce3637c87761787576486585a425d0953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_04a5364687b1fd27d0d00ce51dd05b74933d2a1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b205967c9f5f450cdf7e8917d20d3c4c55a11788.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e91865f394ce61f71d30f6532d7f10ef84bccf1e">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9c2f62c8ef715e9ab09533d6f6e9da7d56dfbc22\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\BLE_20170223_develop_f1\BLE_20161224_develop\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_157ea9d48571af966480a16d413d18afd0d97bbf.jar" />
+    </item>
+
+</items>
